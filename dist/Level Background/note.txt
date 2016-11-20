@@ -1,0 +1,2 @@
+Use the layers in the folders to build a scene like "Arrangement.jpg"
+Each background level has several sets, you can randomize them.
